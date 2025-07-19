@@ -5,7 +5,7 @@ An all-in-one mobile app built with **React Native** and **TypeScript** to help 
 ---
 
 
-<img width="3000" height="700" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-07-19 at 18 19 12" src="https://github.com/user-attachments/assets/88a7ee1f-56c6-445c-a931-f4863a787815" />
+<img width="300" height="700" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-07-19 at 18 19 12" src="https://github.com/user-attachments/assets/88a7ee1f-56c6-445c-a931-f4863a787815" />
 
 <img width="300" height="700" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-07-19 at 18 19 18" src="https://github.com/user-attachments/assets/c4deea76-3521-45b9-b3ef-e973427e9eb8" />
 
