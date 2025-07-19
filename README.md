@@ -6,6 +6,12 @@ An all-in-one mobile app built with **React Native** and **TypeScript** to help 
 
 <img width="300" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-19 at 01 58 49" src="https://github.com/user-attachments/assets/60cd45e2-7631-4ae5-85d5-88ff551b4e23" />
 
+<img width="300" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-19 at 02 02 43" src="https://github.com/user-attachments/assets/7d60a905-5b50-4c5c-b341-a292f9d8e972" />
+
+<img width="300" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-19 at 02 02 05" src="https://github.com/user-attachments/assets/66e78910-f2f0-44ee-aa1c-5ca36cafa0b8" />
+
+<img width="300" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-19 at 02 02 18" src="https://github.com/user-attachments/assets/e28e8f20-d92c-4211-94cc-ede6e7296959" />
+
 
 ## 📱 Features
 
