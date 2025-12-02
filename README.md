@@ -17,7 +17,6 @@ An all-in-one mobile app built with **React Native** and **TypeScript** to help 
 <img width="300" height="700" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-07-19 at 18 22 06" src="https://github.com/user-attachments/assets/c23256b1-450e-42b1-aae6-780e274c1e64" />
 
 
-
 ## 📱 Features
 
 - 📝 **Theory Test Practice** – Answer realistic multiple-choice questions
