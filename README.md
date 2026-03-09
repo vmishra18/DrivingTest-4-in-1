@@ -17,19 +17,19 @@ An all-in-one mobile app built with **React Native** and **TypeScript** to help 
 <img width="100" height="300" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-07-19 at 18 22 06" src="https://github.com/user-attachments/assets/c23256b1-450e-42b1-aae6-780e274c1e64" />
 
 
-## 📱 Features
+## Features
 
-- 📝 **Theory Test Practice** – Answer realistic multiple-choice questions
-- 🎥 **Hazard Perception (Coming Soon)** – Interactive video-based scenarios
-- 📘 **Highway Code** – Full in-app access to the UK highway code
-- 🚦 **Road Signs** – Learn and review traffic signs with visual aids
-- 🌗 **Dark/Light Mode** – Theme switcher with persistent storage
-- 🔊 **Text-to-Speech** – Voice-over intros powered by `expo-speech`
-- 🎨 **Animated UI** – Smooth transitions and custom Lottie animations
+-  **Theory Test Practice** – Answer realistic multiple-choice questions
+-  **Hazard Perception (Coming Soon)** – Interactive video-based scenarios
+-  **Highway Code** – Full in-app access to the UK highway code
+-  **Road Signs** – Learn and review traffic signs with visual aids
+-  **Dark/Light Mode** – Theme switcher with persistent storage
+-  **Text-to-Speech** – Voice-over intros powered by `expo-speech`
+-  **Animated UI** – Smooth transitions and custom Lottie animations
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **React Native** (with Expo)
 - **TypeScript** for type safety
@@ -41,7 +41,7 @@ An all-in-one mobile app built with **React Native** and **TypeScript** to help 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repo and install dependencies:
 
