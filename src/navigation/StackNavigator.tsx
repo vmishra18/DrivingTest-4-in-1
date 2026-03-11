@@ -7,7 +7,6 @@ import HighwayCode from '../screens/HighwayCode';
 import RoadSigns from '../screens/RoadSigns';
 import { RootStackParamList } from './types';
 
-
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
 export default function StackNavigator() {
